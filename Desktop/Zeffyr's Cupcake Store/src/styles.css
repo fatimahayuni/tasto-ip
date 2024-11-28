@@ -1,0 +1,183 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f3f6;
+    /* Light background for the body */
+    color: #333;
+    /* Default text color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #a86a7c;
+    /* Soft pink color for the navbar */
+    color: white;
+    /* White text for navbar */
+}
+
+.navbar a {
+    color: #ffffff !important;
+    /* Ensures navbar links are white */
+}
+
+.navbar-toggler-icon {
+    background-color: #a86a7c;
+    ;
+}
+
+/* Header Styling */
+header {
+    background-color: #f8d7da;
+    /* Lighter peach color for the header */
+    color: #333;
+    /* Darker text color for contrast */
+    padding: 3rem 0;
+    /* Adds padding to top and bottom */
+    text-align: center;
+    /* Centers the text horizontally */
+}
+
+.header-content {
+    max-width: 800px;
+    /* Limits the width of the content */
+    margin: 0 auto;
+    /* Centers the content horizontally */
+}
+
+header h1 {
+    font-family: 'Poppins', sans-serif;
+    /* Custom font family */
+    font-size: 3rem;
+    /* Increases font size */
+    margin-bottom: 0.5rem;
+    /* Adds space between the h1 and p */
+}
+
+header p {
+    font-size: 1.5rem;
+    /* Increases font size of the paragraph */
+    font-weight: 300;
+    /* Lighter weight for the paragraph */
+    color: #555;
+    /* Darker text color for paragraph for readability */
+}
+
+/* Product Cards Styling */
+.product-cards {
+    padding: 50px 10%;
+    /* Adds padding around the product cards */
+}
+
+.product-card {
+    background-color: #ffffff;
+    /* White background for product cards */
+    border-radius: 10px;
+    /* Rounded corners for product cards */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for product cards */
+    margin-bottom: 30px;
+    /* Adds space between cards */
+}
+
+.product-card img {
+    width: 100%;
+    /* Ensures the image fills the card */
+    border-radius: 10px;
+    /* Rounded corners for the image */
+    margin-bottom: 15px;
+    /* Adds space between image and text */
+}
+
+.product-card h3 {
+    color: #6b4f92;
+    /* Purple color for the product title */
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    /* Adds space between title and price */
+}
+
+.product-card p {
+    color: #a86a7c !important;
+    /* Soft pink color for the product price */
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    /* Adds space between price and button */
+}
+
+.product-card button {
+    background-color: #9b7cb7 !important;
+    color: white !important;
+    border: none !important;
+    padding: 10px 20px !important;
+
+    font-size: 1.1rem !important;
+    cursor: pointer !important;
+    border-radius: 5px !important;
+}
+
+
+/* Footer Styling */
+footer {
+    background-color: #a86a7c;
+    /* Same soft pink color for the footer */
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    color: #ffffff;
+    /* White text color for footer */
+}
+
+/* Additional Styles */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    /* Ensures images cover the space without distortion */
+}
+
+h1,
+h2 {
+    font-weight: 600;
+    /* Bold font weight for headers */
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 767px) {
+    .product-cards {
+        padding: 30px 5%;
+    }
+
+    header h1 {
+        font-size: 2.5rem;
+        /* Smaller font size for header on mobile */
+    }
+
+    header p {
+        font-size: 1.2rem;
+        /* Smaller font size for paragraph on mobile */
+    }
+}
+
+.flash-alert {
+    animation: fadeOut 2s ease forwards;
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 1;
+    }
+
+    /* Stay fully visible for the first 70% of time */
+    100% {
+        opacity: 0;
+    }
+}

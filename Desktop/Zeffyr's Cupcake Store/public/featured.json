@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Banana Cupcakes with Cinnamon Cream Cheese Frosting",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/08/banana-cupcakes-cinnamon-cream-cheese-frosting.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chai Latte Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2018/09/chai-latte-cupcakes.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lemon Cupcakes with Blackberry Cream Cheese Frosting",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/05/lemon-cupcakes-blackberry-frosting-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Piña Colada Cupcakes",
+      "price": 3.50,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/04/Pina-Colada-Cupcakes-by-sallysbakingaddiction.com_.jpg"
+    }
+  ]

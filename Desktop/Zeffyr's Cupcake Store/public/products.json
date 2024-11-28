@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "S’mores Brownie Cupcakes",
+      "price": 12.99,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/08/smores-brownie-cupcakes-2.jpg",
+      "description": "Completely from scratch s’mores brownie cupcakes feature a thick graham cracker crust, undeniably fudgy brownie center, and toasty marshmallow frosting"
+    },
+    {
+      "id": 2,
+      "name": "White Chocolate Strawberry Cupcakes",
+      "price": 24.99,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2018/08/homemade-strawberry-cupcakes-1024x1536.jpg",
+      "description": "Adapted from vanilla cupcakes and strawberry cake, these white chocolate strawberry cupcakes combine creamy white chocolate, real strawberries, and fluffy cupcakes. Reduced strawberry puree and freeze-dried strawberries are the secrets to real strawberry flavor in this pretty pink dessert."
+    },
+    {
+      "id": 3,
+      "name": "Lemon Cupcakes with Vanilla Frosting",
+      "price": 19.99,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/the-best-lemon-cupcakes-2.jpg",
+      "description": "These sunshine sweet homemade lemon cupcakes are soft and moist, bursting with lemon flavor, and topped with my favorite vanilla buttercream. You’ll love the refreshing zest of citrus flavor in each bite!"
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Covered Strawberry Cupcakes",
+      "price": 15.99,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2018/02/chocolate-covered-cupcakes-strawberry-filling-1024x1536.jpg",
+      "description": "We’re taking the most chocolatey chocolate cupcake and topping it with soft, fudge-like chocolate ganache. And hidden inside is the sweet surprise of fluffy strawberry buttercream."
+    },
+    {
+      "id": 5,
+      "name": "Lemon Blueberry Cupcakes",
+      "price": 39.99,
+      "image": "https://sallysbakingaddiction.com/wp-content/uploads/2016/04/blueberry-lemon-cupcakes-1024x1536.jpg",
+      "description": "These lemon blueberry cupcakes are supremely soft and moist with fresh lemon flavor. Sweet blueberries dot every single bite and you can finish them off with my tangy, ultra creamy cream cheese frosting."
+    }
+  ]
